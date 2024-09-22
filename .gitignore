@@ -1,0 +1,6 @@
+node_modules
+downloads/*.mp4
+downloads/*.png
+!downloads/example.png
+!downloads/example.mp4
+cookies.json
